@@ -8,6 +8,7 @@ public class 피보나치수열2747 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		//피보나치 수 0,1,1,2,3,5,8,13,21,34,55,89,144, 233, 377, 610, 987, 1597
 		BufferedReader br =new BufferedReader(new InputStreamReader(System.in));
+	
 		int a= Integer.parseInt(br.readLine());
 		int n1=0;
 		int n2=1;
