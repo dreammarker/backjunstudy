@@ -10,7 +10,7 @@ public class 문082 {
 		System.out.println(true&(false^false)^true);
 		System.out.println(false|(false|false)^false);
 		
-		
+		// ^ xor & and | or ~ not
 		
 	}
 
